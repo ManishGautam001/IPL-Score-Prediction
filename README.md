@@ -8,6 +8,7 @@ Then I have Deployed using HEROKU.
 If you want to check deployed model then check at https://iplscorepredictnss.herokuapp.com/
 
 The tools used in this project is:
+0. Python language
 1. Jupiter, Pycharm as IDE.
 2. Numpy and pandas.
 3. Sklearn.
